@@ -1,4 +1,4 @@
-markdown_content = """# Monster Sanctuary - Android Retrofit App 
+# Monster Sanctuary - Android Retrofit App 
 Una aplicación móvil nativa para Android desarrollada en **Kotlin** que se comunica con un servidor remoto para consumir la API REST de *Monster Sanctuary*. El proyecto utiliza la potente librería **Retrofit 2** para la gestión de peticiones de red asíncronas, mapeo de datos estructurados JSON y visualización interactiva mediante un `RecyclerView` adaptado con un diseño personalizado oscuro (`CardView`).
 
 Este proyecto forma parte de la práctica de **Comunicación con APIs (R8)** de la materia de Tecnologías de la Información.
@@ -28,6 +28,11 @@ El ecosistema técnico del proyecto incluye:
 * **Gestión de Imágenes:** [Glide](https://github.com/bumptech/glide) (v4.12.0)
 * **Componentes de UI:** `RecyclerView`, `CardView`, `ConstraintLayout`, `LinearLayout`
 
+* **Nombre Completo:** Angel Gabriel Ortega Arambul*
+
+* **Carrera:** Licenciatura en Tecnologías de la Información
+
+* **Institución:** Centro Universitario de los Valles (CUValles), Universidad de Guadalajara (UDG)
 ---
 
 ## 📂 Estructura del Código Fuente
